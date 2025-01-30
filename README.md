@@ -10,6 +10,6 @@ Network meta-analysis for survival outcome data often involves several studies o
 
 ## Installation
 
-Please download "survNMA_1.1-1.tar.gz" and install it by R menu: "packages" -> "Install package(s) from local files...".
+Please download "survNMA_2.1-1.tar.gz" and install it by R menu: "packages" -> "Install package(s) from local files...".
 
-Download: [please click this link](https://github.com/nomahi/survNMA/raw/main/survNMA_1.1-1.tar.gz)
+Download: [please click this link](https://github.com/nomahi/survNMA/raw/main/survNMA_2.1-1.tar.gz)
